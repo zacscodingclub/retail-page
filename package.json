@@ -8,6 +8,7 @@
   "dependencies": {
     "cloudinary-react": "^1.0.3",
     "react": "^15.5.4",
+    "react-color": "^2.11.7",
     "react-dom": "^15.5.4"
   },
   "scripts": {
